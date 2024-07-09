@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecipeManager</string>
+    <string name="add_recipe">+</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+</resources>

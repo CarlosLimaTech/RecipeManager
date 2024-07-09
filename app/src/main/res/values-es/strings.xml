@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GestorDeRecetas</string>
+    <string name="add_recipe">+</string>
+    <string name="recipe_name">Nombre de la Receta</string>
+    <string name="ingredients">Ingredientes</string>
+    <string name="instructions">Instrucciones</string>
+    <string name="save">Guardar</string>
+    <string name="close">Cerrar</string>
+</resources>

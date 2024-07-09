@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecipeManager</string>
+    <string name="add_recipe">+</string>
+    <string name="recipe_name">Nome da Receita</string>
+    <string name="ingredients">Ingredientes</string>
+    <string name="instructions">Modo de preparo</string>
+    <string name="save">Salvar</string>
+    <string name="close">Fechar</string>
+</resources>
